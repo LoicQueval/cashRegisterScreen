@@ -1,1 +1,1 @@
-# test-cashRegisterScreen
+# cashRegisterScreen
